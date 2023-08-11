@@ -1,3 +1,5 @@
+//Object Literals
+
 const MySym=Symbol("First")
 const ObjectName ={
     name : "Atharva ",
